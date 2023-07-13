@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @absolutelyrelative
-- 👀 I’m interested in Software Development Processes, Linux & Open Source, Probability Theory, Mathematics
+- 👀 I’m an Information Engineering student
 - 🌱 I’m currently learning Python
 
 <!---
